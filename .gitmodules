@@ -1,0 +1,3 @@
+[submodule "tasks"]
+	path = tasks
+	url = git@github-examenlabs:examenlabs/examenlabs-tasks.git
